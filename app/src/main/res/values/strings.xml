@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NfcHceNdef4</string>
+    <string name="servicedesc">NfcHceNdef4</string>
+    <string name="aiddescription">NfcHceNdef4Aid</string>
+</resources>
